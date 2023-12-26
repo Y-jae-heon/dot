@@ -1,6 +1,6 @@
 # dot
 
-Mac Setting Files and Description.
+Mac Setting Files and Description....
 
 # zsh
 
