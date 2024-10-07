@@ -34,11 +34,13 @@ Mac Setting Files and Description....
 # nvm
 
 1. brew install nvm
+2. npm install npx -g
 
 # java
 
 1. brew install openjdk@~ver
+   `2024-10-07 기준 17`
 
 # Global
 
-- appcenter-cli
+- npm install appcenter-cli -g
