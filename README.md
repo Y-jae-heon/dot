@@ -44,3 +44,17 @@ Mac Setting Files and Description....
 # Global
 
 - npm install appcenter-cli -g
+
+
+# 그 외 사이트 접속 
+- 노션 / 피그마 / 포스트맨 / XCode ( AppStore ) / VSCode / InteliJ
+
+- VSCode 설치 시 Extension
+1. Dart
+2. ESLint
+3. Indent-rainbow
+4. Flutter
+5. Korean Language Pack For ~
+6. Kotlin Language
+7. Prettier - Code formatter
+8. Tailwind CSS IntelliSense
